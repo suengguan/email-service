@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"model"
-	_ "opcode-server/routers"
+	_ "system-service/email-service/routers"
 )
 
 const (
